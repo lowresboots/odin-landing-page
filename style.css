@@ -78,7 +78,7 @@ body {
     padding: 12px 24px;
     border-radius: 8px;
     cursor: pointer;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 .hero-text button:hover {
